@@ -1,8 +1,10 @@
-**What is Requirement Analysis?**
+# What is Requirement Analysis
+
+## What is Requirement Analysis?
 
 Requirement Analysis is a critical phase in the software development lifecycle (SDLC) where the project team gathers, analyzes, and defines the requirements of the software product to be developed. This process ensures that all stakeholders have a clear and mutual understanding of what the system should do and how it should perform.
 
-**Why is Requirement Analysis Important?**
+## Why is Requirement Analysis Important?
 
 **Clarity and Understanding:** It helps in understanding what the stakeholders expect from the software, reducing ambiguity.
 
@@ -10,7 +12,7 @@ Requirement Analysis is a critical phase in the software development lifecycle (
 
 **Basis for Design and Development:** Provides a solid foundation for designing and developing the system.
 
-**Key Activities in Requirement Analysis**
+## Key Activities in Requirement Analysis
 
 **1. Requirement Gathering 🗂️**
    
@@ -42,7 +44,7 @@ Requirement Analysis is a critical phase in the software development lifecycle (
   
 - Define acceptance criteria and ensure traceability.
 
-**Types of Requirements**
+## Types of Requirements
 
 - **Functional Requirements**
 
@@ -56,7 +58,7 @@ Requirement Analysis is a critical phase in the software development lifecycle (
 
 **Examples:** Performance, security, scalability, usability, reliability.
 
-**Use Case Diagrams**
+## Use Case Diagrams
   
 **What are Use Case Diagrams?**
 
@@ -75,7 +77,7 @@ Requirement Analysis is a critical phase in the software development lifecycle (
 ![**Use case diagram for the booking system**](alx-booking-uc.png)
 
 
-**Acceptance Criteria**
+## Acceptance Criteria
 
 **Benefits of Acceptance Criteria:**
 
